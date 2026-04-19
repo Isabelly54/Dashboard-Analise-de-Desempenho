@@ -1,4 +1,3 @@
-# Dashboard-Análise-de-Desempenho
 
 # DASHBOARD - ANÁLISE DOS MEIOS DE PAGAMENTO
 
@@ -20,7 +19,7 @@ A intenção desse repositório é demonstrar como sair disso:
 
 Para esse resultado:
 
-![Resultado Final do Projeto](./Imagens/Dashboard_Final.png)
+![Resultado Final do Projeto](./Imagens/Dashboard-Final.png)
 
 
 ## Ferramentas Utilizadas

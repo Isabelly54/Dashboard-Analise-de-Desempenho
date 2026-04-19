@@ -44,11 +44,11 @@ Além disso, é relevante salientar a escolhe de utilizar o PowerQuery ao invés
 
 Enfim, vou citar as funções que utilizei para transformar os dados disso:
 
-![Cartão de Crédito por parcelamento e Quantidade](./Imagens/Banco-Dados2.png)
+![Cartão de Crédito por parcelamento e Quantidade](./Banco-Dados2.png)
 
 Para isso:
 
-![Cartão de Crédito por parcelamento e Quantidade](./Imagens/Dados-Limpos2.png)
+![Cartão de Crédito por parcelamento e Quantidade](./Dados-Limpos2.png)
 
 ### Funções:
 

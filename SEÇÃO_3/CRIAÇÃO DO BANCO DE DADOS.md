@@ -20,6 +20,10 @@ Foi aplica apenas um filtro, o **INNER JOIN** para unir os resultados de duas ta
 
 A etapa do banco de dados foi simples devido o tratamento anterior dos dados e a seleção pré-determinada das tabelas que seriam utilizadas. Isso facilitou a compactação dos dados sem que precisasse de inúmeros filtros para a exportação.
 
+## Imagem do Banco de Dados
+
+![Banco de Dados do Bacen](./Banco-Dados-SQL.png)
+
 ## Ferramentas utilizadas
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 

@@ -36,7 +36,7 @@ O fator que colaborou para sua seleção foi a possibilidade de analisar a tend�
 
 **IMPORTANTE!**: Todas as fotos mostradas nesta seção se referem a um preview de algumas tabelas usadas no Dashboard.
 
-![Uso dos Instrumentos de Pagamento por Quantidade](./Imagens/Banco-Dados.png)
+![Uso dos Instrumentos de Pagamento por Quantidade](./Banco-Dados.png)
 
-![Cartão de Crédito por parcelamento e Quantidade](./Imagens/Banco-Dados2.png)
+![Cartão de Crédito por parcelamento e Quantidade](./Banco-Dados2.png)
 

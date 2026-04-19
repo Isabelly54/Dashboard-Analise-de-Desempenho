@@ -14,7 +14,7 @@ Para garantir o dinamismo e conexão das tabelas deve criar as relações entre 
 
 No meu caso, por se tratar de dados que não continham uma **tabela fato** (Uma tabela extensa que une os dados das tabelas de dimensão), então tive que realizar a relação manual.
 
-![As relações criadas entre as Tabelas](./SEÇÃO_4/Relações-BI.png)
+![As relações criadas entre as Tabelas](./Relações-BI.png)
 
 Como demonstrado na imagem, por não ter uma tabela fato e todas serem tabelas dimensões, tive que realizar a conexão entre elas mesmas para garantir a conectividade. 
 
@@ -38,7 +38,7 @@ A seleção dos gráficos também foi pré-determinada e escolhida a dedo.
 
 ## Imagem do Projeto final
 
-![Resultado Final do Projeto](./Imagens/Dashboard_Final.png)
+![Resultado Final do Projeto](./Dashboard-Final.png)
 
 ## Ferramentas Utilizadas
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
