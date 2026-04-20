@@ -27,11 +27,16 @@ Para conseguir elaborar este projeto, selecionei uma base de dados do Bacen e ap
 5. A região com maior quantidade de ATM.
 6. Comparação entre DOC e PIX.
 
-Elaborado as perguntas, passei a desenvolver todo o projeto para *tentar* responder essas questões.
+Elaborado as perguntas, passei a desenvolver o projeto para responder essas questões.
 
-É importante lembrar que **nem sempre conseguimos solucionar todas as questões**, porém, **sempre podemos chegar próximo delas**.
+## Insights alcançados
 
-Dados não é sobre respostas exatas, é um trabalho investigativo. Como uma investigação policial, a ocorrência de um crime pode apresentar inúmeras hipóteses e as possíveis respostas, apenas surgem com a análise das provas encontradas sobre o crime, e muitas das vezes, elas não respondem a motivação real. Por tanto, dados não garantem exatidão, mas, sim, hipóteses.
+Após desenvolver todo o projeto, consegui observar as seguintes respostas do meu questionário:
+
+- o maior meio de pagamento continua sendo o **Cartão de Débito**, mesmo com o advento do PIX.
+- A transição do DOC para o PIX causou uma grande **mudança na forma de pagamento** dos usuários.
+- As pessoas tendem a parcela apenas **1x no Cartão de Crédito**
+- A operação mais efetuada é a consulta do extrato/saldo das contas, porém, a **operação do pix** é a de maior destaque devido sua tendência em se tornar a maior operação efetuada, daqui um tempo.
 
 ## Etapas do Projeto:
 Nesta parte, encontra-se o **detalhamento dos procedimentos** utilizados para desenvolver o projeto:
